@@ -51,6 +51,10 @@ Career Communities are online communities or social networks that are geared tow
 - [LinkedIn](https://linkedin.com) - A popular social network for people to share their work experience and happenings. `free` `paid`
 - [Alicorn Hunt](https://alicornhunt.com) - An independent online community for recruiters and talent. `free`
 - [Polywork](https://www.polywork.com/) - A social network similar to LinkedIn except that it is geared towards people who have multiple jobs. It's great for creators, consultants, freelancers, and more. `free`
+- [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) - New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP).
+- [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) - New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP).
+- [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) - New job postings from any Lever job board since a date or window (Apify Actor, API + MCP).
+- [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) - New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP).
 
 ## Grammar
 
